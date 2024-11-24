@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Source\\Repos\\TestUserManagement\\UserManagement\\UserManagementApp.csproj": {}
+    "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\UserManagementApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Source\\Repos\\TestUserManagement\\UserManagement\\UserManagementApp.csproj": {
+    "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\UserManagementApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\TestUserManagement\\UserManagement\\UserManagementApp.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\UserManagementApp.csproj",
         "projectName": "UserManagementApp",
-        "projectPath": "C:\\Users\\user\\Source\\Repos\\TestUserManagement\\UserManagement\\UserManagementApp.csproj",
+        "projectPath": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\UserManagementApp.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Source\\Repos\\TestUserManagement\\UserManagement\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -60,9 +64,17 @@
               "target": "Package",
               "version": "[9.0.0, )"
             },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[7.0.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [

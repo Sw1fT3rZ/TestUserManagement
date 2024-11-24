@@ -34,8 +34,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,7 +48,7 @@
               "RelativeDocumentMoniker": "UserManagement\\Controllers\\OrderController.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Controllers\\OrderController.cs",
               "RelativeToolTip": "UserManagement\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAAUAAABXAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAUAAABXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T14:45:39.795Z",
               "EditorCaption": ""
@@ -59,8 +63,7 @@
               "RelativeToolTip": "UserManagement\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T14:45:37.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T14:45:37.343Z"
             },
             {
               "$type": "Document",
@@ -72,8 +75,7 @@
               "RelativeToolTip": "UserManagement\\Migrations\\20241113191235_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T14:45:07.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T14:45:07.44Z"
             },
             {
               "$type": "Document",
@@ -85,8 +87,7 @@
               "RelativeToolTip": "UserManagement\\Migrations\\20241121183144_OrderCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T14:44:47.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T14:44:47.833Z"
             },
             {
               "$type": "Document",
@@ -98,8 +99,7 @@
               "RelativeToolTip": "UserManagement\\Migrations\\20241121183144_OrderCreate.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T14:44:36.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T14:44:36.078Z"
             },
             {
               "$type": "Document",
@@ -111,8 +111,7 @@
               "RelativeToolTip": "UserManagement\\Migrations\\20241113191235_InitialCreate.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T14:44:26.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T14:44:26.911Z"
             }
           ]
         }
