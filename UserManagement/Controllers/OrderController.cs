@@ -50,7 +50,10 @@ namespace UserManagementApp.Controllers // Указываем место, где
                 return BadRequest(); // ...возвращаем ошибку
             }
 
-            _context.Entry(order).State = EntityState.Modified; // Сообщаем базе данных, что данные заказа изменились
+            _context.Entry(order).State = EntityState.Modified;
+            _context.Orders.Update(order);
+            
+            // Сообщаем базе данных, что данные заказа изменились
             try
             {
                 await _context.SaveChangesAsync(); // Пробуем сохранить изменения

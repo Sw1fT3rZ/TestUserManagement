@@ -11,6 +11,6 @@
     "\\UserManagement\\obj",
     "\\UserManagement\\Properties"
   ],
-  "SelectedNode": "\\UserManagement\\Controllers\\OrderController.cs",
+  "SelectedNode": "\\UserManagement\\Data\\ApplicationDbContext.cs",
   "PreviewInSolutionExplorer": false
 }
