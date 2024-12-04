@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\TestUserManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Models\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\Adress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Models\\Adress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\Payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Models\\Payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\OrderItem.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Models\\OrderItem.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Migrations\\20241121183144_OrderCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Migrations\\20241121183144_OrderCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Migrations\\20241113191235_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Migrations\\20241113191235_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Migrations\\20241113191235_InitialCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Migrations\\20241113191235_InitialCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Migrations\\20241121183144_OrderCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Migrations\\20241121183144_OrderCreate.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UserManagement\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,85 +49,138 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 373,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "UserManagement\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "UserManagement\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAUAAABXAAAA",
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\Order.cs",
+              "RelativeToolTip": "UserManagement\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T14:45:39.795Z",
+              "WhenOpened": "2024-12-01T22:25:57.638Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\OrderItem.cs",
+              "RelativeToolTip": "UserManagement\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:01:29.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\Payment.cs",
+              "RelativeToolTip": "UserManagement\\Models\\Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:34:03.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UserManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:10:03.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Adress.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\Adress.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Models\\Adress.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\Adress.cs",
+              "RelativeToolTip": "UserManagement\\Models\\Adress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:29:28.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\Product.cs",
+              "RelativeToolTip": "UserManagement\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:25:34.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Models\\User.cs",
+              "RelativeToolTip": "UserManagement\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:58:03.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "UserManagement\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Controllers\\UserController.cs",
               "RelativeToolTip": "UserManagement\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAABMAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T14:45:37.343Z"
+              "WhenOpened": "2024-11-22T14:45:37.343Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20241113191235_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Migrations\\20241113191235_InitialCreate.cs",
-              "RelativeDocumentMoniker": "UserManagement\\Migrations\\20241113191235_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Migrations\\20241113191235_InitialCreate.cs",
-              "RelativeToolTip": "UserManagement\\Migrations\\20241113191235_InitialCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "UserManagement\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAACcAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T14:45:07.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241121183144_OrderCreate.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Migrations\\20241121183144_OrderCreate.cs",
-              "RelativeDocumentMoniker": "UserManagement\\Migrations\\20241121183144_OrderCreate.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Migrations\\20241121183144_OrderCreate.cs",
-              "RelativeToolTip": "UserManagement\\Migrations\\20241121183144_OrderCreate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T14:44:47.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20241121183144_OrderCreate.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Migrations\\20241121183144_OrderCreate.Designer.cs",
-              "RelativeDocumentMoniker": "UserManagement\\Migrations\\20241121183144_OrderCreate.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Migrations\\20241121183144_OrderCreate.Designer.cs",
-              "RelativeToolTip": "UserManagement\\Migrations\\20241121183144_OrderCreate.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T14:44:36.078Z"
+              "WhenOpened": "2024-11-22T14:45:39.795Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20241113191235_InitialCreate.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Migrations\\20241113191235_InitialCreate.Designer.cs",
-              "RelativeDocumentMoniker": "UserManagement\\Migrations\\20241113191235_InitialCreate.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Migrations\\20241113191235_InitialCreate.Designer.cs",
-              "RelativeToolTip": "UserManagement\\Migrations\\20241113191235_InitialCreate.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UserManagement\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\TestUserManagement\\UserManagement\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UserManagement\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T14:44:26.911Z"
+              "WhenOpened": "2024-11-25T13:15:12.509Z",
+              "EditorCaption": ""
             }
           ]
         }

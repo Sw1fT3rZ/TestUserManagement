@@ -16,9 +16,27 @@ namespace UserManagementApp.Controllers // Здесь задаем место, �
             _context = context; // Сохраняем бд, чтобы потом с ней работать
         }
 
+        [HttpGet("{id}/orders")]
+        public async Task<ActionResult<IEnumerable<Order>>> GetOrders(int id)
+        {
+            var user = await _context.Users
+                .Include(x => x.Orders)
+                .Where(x => x.Id == id)
+                .FirstOrDefaultAsync();
+
+            if (user == null)
+            {
+                return NotFound(); 
+            }
+
+            return Ok(user.Orders);
+        }
+
+
         [HttpGet] // Говорим, что этот метод отвечает за запросы GET
         public async Task<ActionResult<IEnumerable<User>>> GetUsers() // Цей метод возвращает список всех пользователей
         {
+        
             return await _context.Users.ToListAsync(); // Достаем всех пользователей из бд
         }
 

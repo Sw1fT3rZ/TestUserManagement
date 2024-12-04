@@ -167,3 +167,4 @@ C:\Users\user\Source\Repos\TestUserManagement\UserManagement\obj\Debug\net8.0\re
 C:\Users\user\Source\Repos\TestUserManagement\UserManagement\obj\Debug\net8.0\UserManagementApp.pdb
 C:\Users\user\Source\Repos\TestUserManagement\UserManagement\obj\Debug\net8.0\UserManagementApp.genruntimeconfig.cache
 C:\Users\user\Source\Repos\TestUserManagement\UserManagement\obj\Debug\net8.0\ref\UserManagementApp.dll
+C:\Users\user\source\repos\TestUserManagement\UserManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
